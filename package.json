@@ -1,0 +1,18 @@
+{
+  "name": "firebase-auth-app-js",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "bootstrap": "5.2.2",
+    "firebase": "^9.12.1",
+    "sweetalert2": "^11.5.2"
+  }
+}
